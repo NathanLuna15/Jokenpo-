@@ -86,4 +86,6 @@ public class Jokenpo {
         System.out.println("o computador escolheu: " + EscolhaDoPC);
         System.out.println(vitoriaOUderrota);
     }
+
+
 }
